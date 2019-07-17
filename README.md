@@ -14,15 +14,15 @@ uploads/projects	<br>
 uploads/newsfeed	<br>
 uploads/leads	<br>
 uploads/invoices	<br>
-uploads/expenses	
-uploads/discussions	
-uploads/contracts	
-uploads/company	
-uploads/clients	
-uploads/client_profile_images	
-application/config 	
-application/config.php 	
-application/app-config-sample.php 
+uploads/expenses	<br>
+uploads/discussions	<br>
+uploads/contracts	<br>
+uploads/company	<br>
+uploads/clients	<br>
+uploads/client_profile_images	<br>
+application/config <br>
+application/config.php <br>
+application/app-config-sample.php <br>
 /temp/ folder 
 
 
