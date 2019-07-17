@@ -3,7 +3,7 @@
 Create User and Database
 
 crm
- Rewrite Permissions on :
+ Write Permissions on :
  
 uploads/proposals	<br>
 uploads/estimates	<br>
